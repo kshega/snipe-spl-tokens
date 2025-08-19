@@ -1,0 +1,5 @@
+python-dotenv
+solana
+requests
+apscheduler
+python-telegram-bot
